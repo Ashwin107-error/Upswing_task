@@ -1,4 +1,5 @@
 1. clone the repository:
+https://github.com/Ashwin107-error/Upswing_task.git
 
 2. Create and activate Virtual env:
   python3 -m venv venv
